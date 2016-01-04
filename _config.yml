@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7355683174064065
+  lightness: 0.08566927458880536
+  rhythmicContrast: 0.29628075793689845
+  saturation: 0.39206019356182276
+cta: {}
+layout_spectrum: 0.026273220985343126
+name: leyart
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.27647304600623335
